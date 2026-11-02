@@ -1,6 +1,6 @@
 {
   "name": "Smart PowerMeter",
-  "version": "20261101",
+  "version": "20261102",
   "builds": [
     {
       "chipFamily": "ESP32",
